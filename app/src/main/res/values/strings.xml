@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MoveLayoutQuizz</string>
+    <string name="ImageView">Logo</string>
+    <string name="TextView1">Welcome!</string>
+    <string name="TextView2">Already in our app Before?</string>
+    <string name="Button1">Yes, Sign In My Account</string>
+    <string name="Button2">No, Sign Up Please</string>
+
+    <string name="ImageView2">Logo</string>
+    <string name="Phone">Phone</string>
+    <string name="Button3">Next</string>
+    <string name="TextView3">Sign In To Continue Using This App</string>
+    <string name="TextView4">No Account? Create One</string>
+
+    <string name="ImageView3">Logo</string>
+    <string name="Phone2">Use Mobile Phone</string>
+    <string name="Button4">Next</string>
+
+</resources>
